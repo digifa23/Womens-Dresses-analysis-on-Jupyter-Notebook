@@ -1,5 +1,5 @@
 # Womens-Dresses-analysis-on-Jupyter-Notebook
-I carrying out this project two main models for analysis were used and a decription of the two models are as follows.
+In carrying out this project two main models for analysis were used and a decription of the two models are as follows.
 Vader and RoBERTa are two popular models used in sentiment analysis.
 
 The Vader model is a rule-based model that utilizes a lexicon of words and their sentiment scores to determine the overall sentiment of a text. The model considers not only the words themselves but also their context, which allows it to detect sarcasm and negation. The Vader model outputs a sentiment score between -1 and 1 for a given text, where -1 indicates extremely negative sentiment and 1 indicates extremely positive sentiment.
